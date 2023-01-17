@@ -42,7 +42,7 @@
 
 ##
 <p align="center">
-<img width="500px" height="320px" alt="coding girl" style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/4lb4t0R/4lb4t0R/blob/main/482ff37c43387b76de1161edb4d04977-4218086459.gif"/>
+<img width="500px" height="320px" alt="coding girl" style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/4lb4t0R/4lb4t0R/blob/main/65tzCwhChs77vUN3b501-4213358268.gif"/>
 </p>
 <p align="center">
 :purple_circle:  See ya on the Net :purple_circle:
