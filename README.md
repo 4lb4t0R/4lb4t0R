@@ -47,3 +47,6 @@
 <p align="center">
 :purple_circle:  See ya on the Net :purple_circle:
   </p>
+
+
+!!! Update : parti accomplir ma quête principale en mettant celle-ci en pause, coucou moi du futur, tu as beaucoup à coder et à prouver à ces chiens d'industriels, déso :l !!!
