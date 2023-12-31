@@ -29,7 +29,7 @@
 
 ### :floppy_disk: OS : 
 <img align="left" alt="Windows" src="https://img.shields.io/badge/-Windows-blue?style=for-the-badge&logo=Windows"/>
-<img align="left" alt="Manjaro" src="https://img.shields.io/badge/-Manjaro-blue?style=for-the-badge&logo=Manjaro"/>
+<img align="left" alt="Zorin OS" src="https://img.shields.io/badge/Zorin%20Os-grey?style=for-the-badge&logo=zorin"/>
 
 <br/>
 <br/>
