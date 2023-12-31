@@ -1,4 +1,3 @@
-https://img.shields.io/badge/Zorin%20Os-grey?style=for-the-badge&logo=zorin
 #  4lb4t0R <img width="50px" height="50px" alt="GIF DQ Slime" src="https://github.com/4lb4t0R/4lb4t0R/blob/main/slime.gif"/>
 **`Class : Web Developer | Level : 1`**  :beginner:
 
