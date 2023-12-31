@@ -1,4 +1,4 @@
-
+https://img.shields.io/badge/Zorin%20Os-grey?style=for-the-badge&logo=zorin
 #  4lb4t0R <img width="50px" height="50px" alt="GIF DQ Slime" src="https://github.com/4lb4t0R/4lb4t0R/blob/main/slime.gif"/>
 **`Class : Web Developer | Level : 1`**  :beginner:
 
@@ -45,8 +45,5 @@
 <img width="500px" height="320px" alt="coding girl" style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/4lb4t0R/4lb4t0R/blob/main/65tzCwhChs77vUN3b501-4213358268.gif"/>
 </p>
 <p align="center">
-:purple_circle:  See ya on the Net :purple_circle:
+:purple_circle:  See you on the Net :purple_circle:
   </p>
-
-
-!!! Update : parti accomplir ma quête principale en mettant celle-ci en pause, coucou moi du futur, tu as beaucoup à coder et à prouver à ces chiens d'industriels, déso :l !!!
