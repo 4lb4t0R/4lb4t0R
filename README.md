@@ -1,5 +1,5 @@
 #  4lb4t0R <img width="50px" height="50px" alt="GIF DQ Slime" src="https://github.com/4lb4t0R/4lb4t0R/blob/main/slime.gif"/>
-**`Class : Web Developer | Level : 1`**  :beginner:
+**`Class : Analyste SOC | Level : 0`**  :beginner:
 
 ---
 
@@ -44,8 +44,8 @@
 
 ##
 <p align="center">
-<img width="500px" height="320px" alt="Captain Harlock" style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/4lb4t0R/4lb4t0R/blob/main/65tzCwhChs77vUN3b501-4213358268.gif"/>
+<img width="500px" height="320px" alt="Captain Harlock" style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/4lb4t0R/4lb4t0R/blob/main/100694-1022861335.gif"/>
 </p>
 <p align="center">
-:purple_circle:  See you on the Net :purple_circle:
+🔵  Stay safe on the Net 🔵
   </p>
