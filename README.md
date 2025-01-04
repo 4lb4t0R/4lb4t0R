@@ -8,6 +8,7 @@
 <img alt="CSS3" align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="padding-right:10px;"/>
 <img alt="SASS" align="left" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" style="padding-right:10px;"/>
 <img alt="JavaScript" align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="padding-right:10px;"/>
+<img alt="python" align="left" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue&logoSize=auto" style="padding-right:10px;"/>
 
 <br/>
 <br/>
@@ -28,7 +29,9 @@
 
 ### :floppy_disk: OS : 
 <img align="left" alt="Windows" src="https://img.shields.io/badge/-Windows-blue?style=for-the-badge&logo=Windows"/>
-<img align="left" alt="Zorin OS" src="https://img.shields.io/badge/Zorin%20Os-grey?style=for-the-badge&logo=zorin"/>
+<img align="left" alt="EndeavourOS" src="https://img.shields.io/badge/EndeavourOS-purple?style=for-the-badge&logo=endeavouros&logoColor=white&logoSize=auto"/>
+<img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white&logoSize=auto"/>
+
 
 <br/>
 <br/>
